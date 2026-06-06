@@ -32,7 +32,7 @@ Open to SDE · AI/ML · IoT roles — Chennai · Bangalore · Hyderabad · Remot
 
 | IEEE Papers | Projects Built | Conferences | Tech Stacks |
 |:-----------:|:--------------:|:-----------:|:-----------:|
-| 2 | 8+ | 2 | 10+ |
+| 1 | 8+ | 2 | 10+ |
 
 </div>
 
