@@ -21,7 +21,7 @@
 ```
 Building intelligent systems — from embedded hardware to cloud-scale AI.
 IEEE published researcher. Graduating August 2026 from VIT Vellore.
-Open to SDE · AI/ML · IoT roles — Chennai · Bangalore · Hyderabad · Remote
+Open to SDE · AI/ML · IoT roles
 ```
 
 ---
@@ -129,6 +129,6 @@ Open to SDE · AI/ML · IoT roles — Chennai · Bangalore · Hyderabad · Remot
 
 <div align="center">
 
-*Open to SDE · AI/ML · IoT roles — Chennai · Bangalore · Hyderabad · Remote*
+*Open to SDE · AI/ML · IoT roles 
 
 </div>
