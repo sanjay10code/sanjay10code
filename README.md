@@ -41,8 +41,7 @@ Open to SDE · AI/ML · IoT roles — Chennai · Bangalore · Hyderabad · Remot
 ### 🎤 Conferences
 
 - **SCI-2026** — Swinburne University, Hanoi (April 2026) · *Securing Payloads in Modern Cyber Systems* — payload security across IoT, 5G, cloud, and blockchain
-- **IEEE i-PACT 2025** — *Federated DNNs with AHPO for Privacy-Preserving Healthcare Intelligence* · [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11307937)
-
+- **IEEE i-PACT 2025** — *Federated DNNs with AHPO for Privacy-Preserving Healthcare Intelligence* · 
 ---
 
 ### ⚙️ Skills
