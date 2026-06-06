@@ -103,11 +103,11 @@ Open to SDE · AI/ML · IoT roles — Chennai · Bangalore · Hyderabad · Remot
 
 ### 📄 Research
 
-**Federated DNNs with AHPO — IEEE i-PACT 2025** · [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11307937)
+**Federated DNNs with AHPO — IEEE i-PACT 2025** · 
 
 > Privacy-preserving healthcare intelligence using federated multi-layered DNNs with biogeography-based hyperparameter optimization across eICU, MIMIC-III, FeTS, and BRATS20 datasets
 
-**IoT Air Quality Monitoring — Bentham Science** *(accepted & indexed)*
+**IoT Air Quality Monitoring — Bentham Science** 
 
 > MQ-135, MQ-137, PM2.5 sensors with ESP32 cloud integration and Blynk real-time dashboard — 99.9% uptime
 
